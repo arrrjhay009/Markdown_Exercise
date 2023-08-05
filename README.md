@@ -130,6 +130,7 @@ public static int Sum(int num1, int num2)
 
 <!-- Tables -->
 **Table**
+
 | Name | Nickname | Email              |
 |------|----------|--------------------|
 | Ryan | Rye      | ryantest@gmail.com |
